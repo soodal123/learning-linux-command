@@ -3,7 +3,7 @@
 ## 1. 현재 작업 디렉토리 확인 (`pwd`)
 ```bash
 $ pwd
-/c/Users/SW
+/c/Users/Username
 ```
 - `pwd`: 현재 디렉토리 경로를 출력합니다.
 
@@ -76,5 +76,3 @@ $ vim example.py
 $ vi 1.txt
 ```
 - `vim`, `vi`: 터미널 기반 텍스트 편집기를 실행하여 파일을 수정할 수 있습니다.
-
-
